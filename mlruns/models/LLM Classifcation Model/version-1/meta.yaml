@@ -1,0 +1,15 @@
+creation_timestamp: 1761527066875
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1761527066875
+model_id: m-27c1f13ae86440d681b621a9b652e6b9
+name: LLM Classifcation Model
+run_id: 57fb67bcca9c4bd6ad5f6aeadebeabe8
+run_link: ''
+source: mlflow-artifacts:/763792922687873175/models/m-27c1f13ae86440d681b621a9b652e6b9/artifacts
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/763792922687873175/models/m-27c1f13ae86440d681b621a9b652e6b9/artifacts
+user_id: null
+version: 1

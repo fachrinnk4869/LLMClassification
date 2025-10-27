@@ -1,0 +1,8 @@
+data/
+.venv/
+mlartifacts/
+model_output/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/763792922687873175/4ae8f8ee148248b18bfc80f8ff485785/artifacts
+end_time: 1761524082608
+entry_point_name: ''
+experiment_id: '763792922687873175'
+lifecycle_stage: active
+run_id: 4ae8f8ee148248b18bfc80f8ff485785
+run_name: powerful-bear-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761477759660
+status: 4
+tags: []
+user_id: fachri

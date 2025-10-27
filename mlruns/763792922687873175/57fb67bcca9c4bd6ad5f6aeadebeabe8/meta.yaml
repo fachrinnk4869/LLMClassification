@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/763792922687873175/57fb67bcca9c4bd6ad5f6aeadebeabe8/artifacts
+end_time: 1761470327628
+entry_point_name: ''
+experiment_id: '763792922687873175'
+lifecycle_stage: active
+run_id: 57fb67bcca9c4bd6ad5f6aeadebeabe8
+run_name: overfitting deberta
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761446664301
+status: 4
+tags: []
+user_id: fachri

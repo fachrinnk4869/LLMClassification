@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/763792922687873175
+creation_time: 1761439418656
+experiment_id: '763792922687873175'
+last_update_time: 1761439418656
+lifecycle_stage: active
+name: LLM Classification Fine-tuning
